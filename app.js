@@ -1580,7 +1580,7 @@
 
 
 
-//CHAP #38-42
+//----------------CHAP #38-42------------------
 //FUNCTIONS, SWITCH STATEMENTS, WHILE… DOWHILE LOOPS 
 
 
@@ -1807,7 +1807,10 @@
 
 
 
-//chapter # 43-48
+//----------------chapter # 43-48-----------------
+//EVENTS
+
+
 //task 1
 // function a(){
 //     alert("Welcome To Our Web Page!");
@@ -1855,9 +1858,11 @@
 
 //   }
 
-//chap # 49-52
-//task 1
+//-------------chap # 49-52------------
+//EVENTS
 
+
+//task 1
 // function submit(){
 //     var name=document.getElementById("name");
 //     var email=document.getElementById("email");
@@ -2050,7 +2055,10 @@
 
 
 
-//chap #52-57          
+//-----------chap #52-57--------------
+//MODALS
+
+
 //task 2
 // var a=["1.jpg","2.jpg","3.jpg","4.png","5.jpg","6.jpg","7.png","8.jpg","9.jpg","10.jpg","11.jpg","12.jpg","13.jpg","14.png","15.jpg"];
 // // task 3
@@ -2077,7 +2085,10 @@
 
 
 
-//chap #58-56
+//------------chap #58-56-------------------
+//DOM
+
+
 //task 1
 //i.
 // var a=document.getElementById("main-content");
@@ -2120,5 +2131,11 @@
 // var e=document.getElementById("email");
 // console.log(e.parentNode);
 // console.log(e.nodeType);
+
+
+
+
+
+//--------------------END----------------------
 
 
