@@ -1782,7 +1782,19 @@
 // }
 
 //task 9 
-//skip
+// var hrs=+prompt("How many hours did you work?");
+// if(hrs>40){
+//     overTime(hrs);
+// }
+// else{
+//     alert(" Your Over time pay is 0");
+// }
+// function overTime(a){
+//     var time=a-40;
+//     var pay=time*12;
+//     alert("Your over time pay is "+pay+" RS")
+// }
+
 
 
 //task 10
@@ -1882,7 +1894,7 @@
 
 
 
-//task 3              
+// task 3              
 // var count = 0;
 // var b=0;
 // var form = document.getElementById("f");
